@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="php-static-class-interface" tests="2" assertions="2" failures="0" errors="0" time="0.002324">
+    <testsuite name="LordDashMe\BrownbagPHPPackage\Tests\Unit\SampleClassTest" file="/var/www/site/tests/Unit/SampleClassTest.php" tests="2" assertions="2" failures="0" errors="0" time="0.002324">
+      <testcase name="it_should_load_sample_class" class="LordDashMe\BrownbagPHPPackage\Tests\Unit\SampleClassTest" file="/var/www/site/tests/Unit/SampleClassTest.php" line="14" assertions="1" time="0.001445"/>
+      <testcase name="it_should_add" class="LordDashMe\BrownbagPHPPackage\Tests\Unit\SampleClassTest" file="/var/www/site/tests/Unit/SampleClassTest.php" line="22" assertions="1" time="0.000879"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
